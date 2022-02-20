@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+composer.phar
+package-lock.json
+.DS_Store
+/.idea
+/.vscode
+.phpunit.result.cache
