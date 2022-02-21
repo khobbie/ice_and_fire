@@ -9,7 +9,7 @@ IceOnFire is php package wrapper for accessing [AnApiOfIceAndFire](https://anapi
 
 ## Installation ##
 
-The current production release of A-song-of-ice-and-fire-API is available through [npm](https://www.npmjs.com/package/asoiaf-api):
+The current production release of A-song-of-ice-and-fire-API is available through [Composer](https://packagist.org/packages/ampahkwabena/ice-and-fire):
 
 ```
 composer require ampahkwabena/ice-and-fire
