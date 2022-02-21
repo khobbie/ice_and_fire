@@ -1,6 +1,6 @@
 {
     "name": "ampahkwabena/ice-and-fire",
-    "description": "IceOnFire_Package is php package wrapper for accessing https://anapioficeandfire.com/",
+    "description": "Ic & Fire PHP package is php package wrapper for accessing https://anapioficeandfire.com/",
     "require": {
         "guzzlehttp/guzzle": "^7.2",
         "phpseclib/phpseclib": "^2.0"
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "khobbie\\Anapioficeandfire_Package\\": "src/"
+            "khobbie\\ice_and_fire\\": "src/"
         }
     },
     "autoload-dev": {
